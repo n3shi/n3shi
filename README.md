@@ -9,8 +9,11 @@ Good to see you! My name is Wojciech. I'm interested in the process of apps crea
 🌱 I’m currently learning Vue.js / C++ / .NET
 
 👯  I am looking for collaborations in Vue.js
+
 💬 Ask me about anything
+
 📫 How to reach me: neshiteam@gmail.com
+
 ⚡ Fun fact: The more you know, the more you realize you don't know
 
 ### What's more about me?
