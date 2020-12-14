@@ -11,6 +11,6 @@ Good to see you! My name is Wojciech. I'm interested in process of creation apps
 - ⚡ Fun fact: The more you know, the more you realize you don't know
 
 ### What's more?
-[linkedIn](https://www.linkedin.com/in/wojciech-ziębicki-3b883b1b5) | [3D models](https://sketchfab.com/N3shi)
+[LinkedIn](https://www.linkedin.com/in/wojciech-ziębicki-3b883b1b5) | [3D models](https://sketchfab.com/N3shi)
 
 
