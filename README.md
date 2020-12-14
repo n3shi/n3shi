@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-...
+---
 Good to see you! My name is Wojciech. I'm interested in process of creation apps. My strongest leanguages are C/C++, Vue.js, C# and SQL, but the very first step i also made in Python, Java, Django. In this repo you can find some of my own work or project done with colaborators. Because most of my projects are private, if you are intrested and want see more, contact me -> neshiteam@gmail.com
 ---
 ### About my active projects
