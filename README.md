@@ -12,6 +12,6 @@ Good to see you! My name is Wojciech. I'm interested in the process of apps crea
 ⚡ Fun fact: The more you know, the more you realize you don't know <br/>
 
 ### Check out my other projects:
-[3D models](https://sketchfab.com/N3shi)   |   [ArtStation](https://www.artstation.com/n3shi)
+[ArtStation](https://n3shi.artstation.com)  |  [3D models](https://sketchfab.com/N3shi)  
 
 
