@@ -8,10 +8,10 @@ Good to see you! My name is Wojciech. I'm interested in the process of apps crea
 🌱 I’m currently learning Vue.js / C++ / .NET <br/>
 👯  I am looking for collaborations in Vue.js <br/>
 💬 Ask me about anything <br/>
-📫 How to reach me: neshiteam@gmail.com <br/>
+📫 How to reach me: neshiteam@gmail.com | [LinkedIn](https://www.linkedin.com/in/wojciech-ziębicki-3b883b1b5) <br/> 
 ⚡ Fun fact: The more you know, the more you realize you don't know <br/>
 
-### What's more about me?
-[LinkedIn](https://www.linkedin.com/in/wojciech-ziębicki-3b883b1b5) | [3D models](https://sketchfab.com/N3shi)   |   [ArtStation](https://www.artstation.com/n3shi)
+### Check out my other projects:
+[3D models](https://sketchfab.com/N3shi)   |   [ArtStation](https://www.artstation.com/n3shi)
 
 
