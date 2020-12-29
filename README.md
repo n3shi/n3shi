@@ -5,7 +5,7 @@ Good to see you! My name is Wojciech. I'm interested in the process of apps crea
 ### Current actvity
 
 🔭 Working on: [guitab.pl](https://guitab.pl) - music notes editor <br/>
-🌱 Small project in Vue.js / .Net (C++/C#) <br/>
+🌱 Small project in Vue.js / .Net (C#) / C++ <br/>
 👯  I am looking for collaborations in Vue.js <br/>
 💬 Ask me anything <br/>
 📫 Reach me: neshiteam@gmail.com | [LinkedIn](https://www.linkedin.com/in/wojciech-ziębicki-3b883b1b5) <br/> 
