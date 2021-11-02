@@ -1,6 +1,8 @@
 ### Hi everyone 👋
 
-Good to see you! My name is Wojciech. I'm interested in the process of apps creation. My strongest languages are C/C++, Vue.js, C# and SQL, but I also made first steps in Java, Python, Bash, Django. In this repo you can find some of my own work or projects done with colaborators. As most of my repositories are private, if you are intrested in them and want to see more apps example, contact me -> neshiteam@gmail.com
+Good to see you! My name is Wojciech. I'm interested in the process of apps creation. My strongest languages are C/C++, Vue.js, C# and SQL, but I also made first steps in Java, Python, Bash, Django. In this repo you can find some of my own work or projects done with colaborators. <br/><br/>
+
+As most of my repositories are private, if you are intrested in them and want to see more apps example, contact me -> neshiteam@gmail.com
 
 ### Current actvity
 
