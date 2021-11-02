@@ -4,7 +4,7 @@ Good to see you! My name is Wojciech. I'm interested in the process of apps crea
 
 ### Current actvity
 
-🔭 Working on: [guitab.pl](https://guitab.pl) - music notes editor <br/>
+🔭 Working on: [guitab.pl](https://guitab.pl) - music notes editor [temporary page is disabled]<br/>
 🌱 Small project in Vue.js / .Net (C#) / C++ <br/>
 👯  I am looking for collaborations in Vue.js <br/>
 💬 Ask me anything <br/>
